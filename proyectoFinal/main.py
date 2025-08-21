@@ -1,0 +1,3 @@
+import editorEscenarios
+
+editorEscenarios.Editor()
